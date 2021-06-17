@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Week09_28046</string>
+    <string name="action_settings">Hapus Semua</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nim">NIM:</string>
+    <string name="nama_lengkap">Nama Lengkap:</string>
+    <string name="alamat_email">Alamat Email:</string>
+    <string name="nomor_hp">Nomor Hp:</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="nim02">Nim</string>
+    <string name="nama02">Nama</string>
+    <string name="nim03">Nim:</string>
+    <string name="nama_lengkap02">Nama Lengkap:</string>
+</resources>
